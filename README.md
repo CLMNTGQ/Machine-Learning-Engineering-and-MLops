@@ -1,5 +1,7 @@
 # Machine Learning Engineering & MLOps
 
+**[Read the course online](https://clmntgq.github.io/Machine-Learning-Engineering-and-MLops/course/)**
+
 **[Open the presentation in your browser](https://clmntgq.github.io/Machine-Learning-Engineering-and-MLops/ml-engineering.html)**
 
 A 24-hour, hands-on engineering course on turning a notebook model into a reproducible, testable, and observable ML service. A running industrial sensor example connects design decisions to deployment and operations.
